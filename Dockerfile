@@ -1,4 +1,4 @@
-FROM collabora/code:latest
+FROM libreoffice/online:latest
 LABEL maintainer="Wim Bonis wb@stylite.de"
 
 # Switch to root User
