@@ -1,4 +1,4 @@
-FROM libreoffice/online:latest
+FROM libreoffice/online:master
 LABEL maintainer="Wim Bonis wb@stylite.de"
 
 # Switch to root User
